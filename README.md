@@ -55,13 +55,13 @@ python flower_puzzle.py
 
 ## 📷 Screenshot
 
-![alt text](image.png)
+WIP
 
 ---
 
 ## ✍️ Author
 
-Created with passion by **\Irene de Cesare**.
+Created with passion by **Irene de Cesare**.
 
 ---
 
